@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.simulator.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\Vendasky\\Projects\\simulator\\actions.json",
+      "action_manifest_path": "C:\\Users\\Administrator\\Projects\\simulator\\actions.json",
       "strings": {
         "en_us": {
           "name": "Simulator [Testing]"
